@@ -88,13 +88,13 @@ body {
 		display: block;
 		padding:5px 20px;		
 		text-decoration:none;
-		color: black;
+		color: white;
 		cursor: pointer;
 	}
 	
 	#filters li span.active {
 		background: #CD7F32;
-		color:#fff;
+		color: white;
 	}
  
 
